@@ -70,7 +70,7 @@
   }
   
   .play-button::before {
-    content: '0';
+    content: '';
     display: block;
     width: 0;
     height: 0;
